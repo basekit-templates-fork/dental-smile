@@ -1,65 +1,78 @@
 {
-	"name":"Dental-Smile",
-	"thumbnail":"dentalsmile.png",
-	"templateType":"standard",
-	"pageTypes": ["home"],
+    "name": "Dental-Smile",
+    "thumbnail": "dentalsmile.png",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-        "en": ["minimal", "clean", "Business", "dental", "stylish", "plain", "white", "creative", "elegant", "professional", "sans-serif"]
+        "en": [
+            "minimal",
+            "clean",
+            "Business",
+            "dental",
+            "stylish",
+            "plain",
+            "white",
+            "creative",
+            "elegant",
+            "professional",
+            "sans-serif"
+        ]
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg",
         "images/logo.png"
     ],
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#eff2f6",
-            "color3":"#71cde2",
-            "color4":"#444546",
-            "color5":"#9e9597",
-            "color6":"#8c8c8c",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#eff2f6",
+            "color3": "#71cde2",
+            "color4": "#444546",
+            "color5": "#9e9597",
+            "color6": "#8c8c8c",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#f6f6ef",
-            "color3":"#b77d9d",
-            "color4":"#464644",
-            "color5":"#959c9e",
-            "color6":"#8c8c8c",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f6f6ef",
+            "color3": "#b77d9d",
+            "color4": "#464644",
+            "color5": "#959c9e",
+            "color6": "#8c8c8c",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#f6eff3",
-            "color3":"#7d82b7",
-            "color4":"#464445",
-            "color5":"#989e95",
-            "color6":"#8c8c8c",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f6eff3",
+            "color3": "#7d82b7",
+            "color4": "#464445",
+            "color5": "#989e95",
+            "color6": "#8c8c8c",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#e0d8e1",
-            "color3":"#1b4887",
-            "color4":"#433944",
-            "color5":"#999b7d",
-            "color6":"#7f7f7f",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#e0d8e1",
+            "color3": "#1b4887",
+            "color4": "#433944",
+            "color5": "#999b7d",
+            "color6": "#7f7f7f",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#c7dcc9",
-            "color3":"#be844d",
-            "color4":"#2b4c2e",
-            "color5":"#7562a8",
-            "color6":"#797979",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#c7dcc9",
+            "color3": "#be844d",
+            "color4": "#2b4c2e",
+            "color5": "#7562a8",
+            "color6": "#797979",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "32px",
@@ -145,5 +158,6 @@
             "color": "@color-swatch4",
             "letter-spacing": "6px"
         }
-    }
+    },
+    "screenshot": "dental-smile-screenshot.jpg"
 }
